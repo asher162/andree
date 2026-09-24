@@ -1,0 +1,4 @@
+groq
+streamlit
+gTTS
+SpeechRecognition
